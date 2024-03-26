@@ -17,7 +17,7 @@
 
 <h3>If you are install windows make it clean install with this cmd </h3>
 
-<li>Press shit + F10 </li>
+<li>Press (shit + F10) </li>
 
 <li>diskpart</li>
 
