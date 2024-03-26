@@ -23,7 +23,7 @@
 
 <li>list disk</li>
 
-<li>select disk ( Windows hard disk drive )</li>
+<li>select disk ( 0 Windows hard disk)</li>
 
 <li>clean</li>
 
