@@ -23,5 +23,7 @@
 
 <li>list disk</li>
 
+<li>select disk ( Windows hard disk drive )</li>
+
 <li>clean</li>
 
