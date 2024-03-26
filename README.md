@@ -1,3 +1,9 @@
 # Tech and other notes 
 
-<li>Clean formet windows <a href=https://github.com/Aravindhyox/personal-tech-notes/edit/main/Clean%20formet%20windows.md></a> </li>
+<h3>windows cmds:</h3>
+ 
+ <ul>
+ 
+  <li> Clean formet windows.md<a href="https://github.com/Aravindhyox/personal-tech-notes/blob/main/Clean%20formet%20windows.md">Download</a> </li>
+  
+ </ul>
