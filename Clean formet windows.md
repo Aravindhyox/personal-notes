@@ -7,7 +7,7 @@
 <li>select disk 0,1,2</li>
 <li>clean</li>
 <li>create partition primary</li>
-<li>select partition primary</li>
+<li>select partition</li>
 <li>format fs=ntfs quick</li>
 <li>assign</li>
 <li>exit</li>
