@@ -9,13 +9,13 @@
 <li>create partition primary</li>
 <li>select partition</li>
 <li>format fs=ntfs quick</li>
+<li>active</li>
 <li>assign</li>
-<li>exit</li>
-<li>exit</li>
+<li>exit*2</li>
 
 <h3>This cmds works only on windows </h3>
 
-<h3>If you are install windows make it clean install with this cmd </h3>
+<h3> install lean windows: </h3>
 
 <li>Press (shit + F10) </li>
 
