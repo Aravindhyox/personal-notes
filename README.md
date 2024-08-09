@@ -6,7 +6,7 @@
  
   <li>
    
-   Clean formet windows <a href="https://github.com/Aravindhyox/personal-tech-notes/blob/main/Clean%20formet%20windows.md">here</a> 
+   Clean format windows <a href="https://github.com/Aravindhyox/personal-tech-notes/blob/main/Clean%20formet%20windows.md">here</a> 
   
   </li>
   
