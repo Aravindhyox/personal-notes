@@ -11,14 +11,14 @@
 <h3>Exercices</h3>
 
 
-| First Header  | Second Header | First Header  | Second Header | First Header  | Second Header |
-| ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
-| Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  |
+|    Days ->    |   Mon / Thu   |   Tue / Fri   |   Wed / Sat   |    Sunday     |
+| ------------- | ------------- | ------------- | ------------- | ------------- |
+|               | Content Cell  | Content Cell  | Content Cell  | Content Cell  |
+|               | Content Cell  | Content Cell  | Content Cell  | Content Cell  |
+|               | Content Cell  | Content Cell  | Content Cell  | Content Cell  |
+|               | Content Cell  | Content Cell  | Content Cell  | Content Cell  |
+|               | Content Cell  | Content Cell  | Content Cell  | Content Cell  |
+|               | Content Cell  | Content Cell  | Content Cell  | Content Cell  |
+|               | Content Cell  | Content Cell  | Content Cell  | Content Cell  |
+|               | Content Cell  | Content Cell  | Content Cell  | Content Cell  |
+|               | Content Cell  | Content Cell  | Content Cell  | Content Cell  |
