@@ -10,7 +10,7 @@
 
 <h3>Exercices</h3>
 
-| Days | Mon/Thu | Tue/Fri | Wed/Sat |
-       | --- | --- |--- |--- |--- |--- |
-       | git status | List all new or modified files |
-       | git diff | Show file differences that haven't been staged |
+| Days | Mon/Thu |
+| --- | --- |
+| git status | List all new or modified files |
+| git diff | Show file differences that haven't been staged |
