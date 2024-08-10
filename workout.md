@@ -13,12 +13,4 @@
 
 |    Days ->    |   Mon / Thu   |   Tue / Fri   |   Wed / Sat   |    Sunday     |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
-|               | Content Cell  | Content Cell  | Content Cell  | Content Cell  |
-|               | Content Cell  | Content Cell  | Content Cell  | Content Cell  |
-|               | Content Cell  | Content Cell  | Content Cell  | Content Cell  |
-|               | Content Cell  | Content Cell  | Content Cell  | Content Cell  |
-|               | Content Cell  | Content Cell  | Content Cell  | Content Cell  |
-|               | Content Cell  | Content Cell  | Content Cell  | Content Cell  |
-|               | Content Cell  | Content Cell  | Content Cell  | Content Cell  |
-|               | Content Cell  | Content Cell  | Content Cell  | Content Cell  |
-|               | Content Cell  | Content Cell  | Content Cell  | Content Cell  |
+
