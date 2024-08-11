@@ -1,6 +1,18 @@
 # Workout plan:
 
-<h3>Warmup</h3>
+<h3>Mobility</h3>
+<li> world greatest stretch </li>
+<li>Mountain to cobra </li>
+cat & camel 
+ankel mobility
+ankel rotation 
+calf raises
+wrist rotation 
+wrist mobility 
+shoulder rotation 
+Dinamic chest stretch
+chest opener
+hip circle </li>
 
 <li>*all</li>
 
