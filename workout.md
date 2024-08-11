@@ -1,23 +1,24 @@
 # Workout plan:
 
 <h3>Mobility</h3>
-<li> world greatest stretch </li>
+
+<li>world greatest stretch </li>
 <li>Mountain to cobra </li>
-<li> cat & camel </li> 
-<li>ankel mobility </li>
-<li>ankel rotation </li>
-<li>calf raises</li>
-<li>wrist rotation </li>
-<li>wrist mobility </li>
-<li>shoulder rotation </li>
+<li>Cat & camel </li> 
+<li>Ankel mobility </li>
+<li>Ankel rotation </li>
+<li>Calf raises</li>
+<li>Wrist rotation </li>
+<li>Wrist mobility </li>
+<li>Shoulder rotation </li>
 <li>Dinamic chest stretch </li>
-<li>chest opener</li>
-<li>hip circle </li>
+<li>Chest opener</li>
+<li>Hip circle </li>
 
 
 <h3>Cardio</h3>
-<li>500 skiping </li>
-<li>20+ jumping jacks</li>
+<li>500 Skiping </li>
+<li>20+ Jumping jacks</li>
 
 <h3>Exercices</h3>
 
@@ -33,15 +34,15 @@
 
 <h3>CoolDown:</h3>
 
-<li>hamstring & calf</li>
-<li>quadriceps</li>
-<li>gluteu stretch </li>
-<li>adductor stretch </li>
-<li>oblique stretch </li>
-<li>ankel inner hold hamstring stretch</li>
-<li>lat muscle stretch</li>
-<li>deltoid stretch </li>
-<li>triceps stretch </li>
-<li>nick stretch </li>
-<li>scapulas & lat stretch </li>
+<li>Hamstring & calf</li>
+<li>Quadriceps</li>
+<li>Gluteu stretch </li>
+<li>Adductor stretch </li>
+<li>Oblique stretch </li>
+<li>Ankel inner hold hamstring stretch</li>
+<li>Lat muscle stretch</li>
+<li>Deltoid stretch </li>
+<li>Triceps stretch </li>
+<li>Nick stretch </li>
+<li>Scapulas & lat stretch </li>
 <li>Full spilt</li>
