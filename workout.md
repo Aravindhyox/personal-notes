@@ -45,4 +45,4 @@
 <li>Triceps stretch </li>
 <li>Nick stretch </li>
 <li>Scapulas & lat stretch </li>
-<li>Full spilt</li>
+<li>Full split</li>
