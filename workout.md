@@ -2,7 +2,7 @@
 
 <h3>Mobility</h3>
 
-<li>world greatest stretch </li>
+<li>World greatest stretch </li>
 <li>Mountain to cobra </li>
 <li>Cat & camel </li> 
 <li>Ankel mobility </li>
@@ -16,7 +16,7 @@
 <li>Hip circle </li>
 
 
-<h3>Cardio</h3>
+<h3>Cardio / Warmup</h3>
 <li>500 Skiping </li>
 <li>20+ Jumping jacks</li>
 
