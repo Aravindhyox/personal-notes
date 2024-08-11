@@ -21,5 +21,5 @@
 
 
 <h3>CoolDown:</h3>
-<li>*all </li>
+<li>all </li>
 <li>Full spilt</li>
