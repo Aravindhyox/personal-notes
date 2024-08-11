@@ -3,18 +3,17 @@
 <h3>Mobility</h3>
 <li> world greatest stretch </li>
 <li>Mountain to cobra </li>
-cat & camel 
-ankel mobility
-ankel rotation 
-calf raises
-wrist rotation 
-wrist mobility 
-shoulder rotation 
-Dinamic chest stretch
-chest opener
-hip circle </li>
+<li> cat & camel </li> 
+<li>ankel mobility </li>
+<li>ankel rotation </li>
+<li>calf raises</li>
+<li>wrist rotation </li>
+<li>wrist mobility </li>
+<li>shoulder rotation </li>
+<li>Dinamic chest stretch </li>
+<li>chest opener</li>
+<li>hip circle </li>
 
-<li>*all</li>
 
 <h3>Cardio</h3>
 <li>500 skiping </li>
@@ -33,5 +32,16 @@ hip circle </li>
 
 
 <h3>CoolDown:</h3>
-<li>all </li>
+
+<li>hamstring & calf</li>
+<li>quadriceps</li>
+<li>gluteu stretch </li>
+<li>adductor stretch </li>
+<li>oblique stretch </li>
+<li>ankel inner hold hamstring stretch</li>
+<li>lat muscle stretch</li>
+<li>deltoid stretch </li>
+<li>triceps stretch </li>
+<li>nick stretch </li>
+<li>scapulas & lat stretch </li>
 <li>Full spilt</li>
