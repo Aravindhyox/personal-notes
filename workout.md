@@ -19,3 +19,7 @@
 | Shoulders:                                                                    | Core:                                                                                       | Legs:                                                                                                |
 | 1.Seated military press<br>2.Arnold press<br>3.Lateral raise<br>4.upright row | 1.Leg raise<br>2.Russian twist<br>3.plank 60 sec<br>4.Dummbell side bent                    | 1.Bulgarian split squat<br>2.Side lunges<br>3.Walking lunges<br>4.Dummbell RDL                       |
 
+
+<h3>CoolDown:</h3>
+<li>*all </li>
+<li>Full spilt</li>
