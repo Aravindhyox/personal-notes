@@ -5,13 +5,13 @@
 <li>World greatest stretch </li>
 <li>Mountain to cobra </li>
 <li>Cat & camel </li> 
-<li>Ankel mobility </li>
-<li>Ankel rotation </li>
+<li>Ankle mobility </li>
+<li>Ankle rotation </li>
 <li>Calf raises</li>
 <li>Wrist rotation </li>
 <li>Wrist mobility </li>
 <li>Shoulder rotation </li>
-<li>Dinamic chest stretch </li>
+<li>Dynamic chest stretch </li>
 <li>Chest opener</li>
 <li>Hip circle </li>
 
@@ -36,13 +36,13 @@
 
 <li>Hamstring & calf</li>
 <li>Quadriceps</li>
-<li>Gluteu stretch </li>
+<li>Glute stretch </li>
 <li>Adductor stretch </li>
 <li>Oblique stretch </li>
-<li>Ankel inner hold hamstring stretch</li>
+<li>Ankle inner hold hamstring stretch</li>
 <li>Lat muscle stretch</li>
 <li>Deltoid stretch </li>
 <li>Triceps stretch </li>
-<li>Nick stretch </li>
-<li>Scapulas & lat stretch </li>
+<li>Neck stretch </li>
+<li>Scapula & lat stretch </li>
 <li>Full split</li>
