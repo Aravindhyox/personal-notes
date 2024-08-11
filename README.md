@@ -9,7 +9,7 @@
   </li>
  
   <li>
-      workout plan   <a href="https://github.com/Aravindhyox/personal-tech-notes/blob/main/workout.md"></a>
+      workout plan   <a href="https://github.com/Aravindhyox/personal-tech-notes/blob/main/workout.md">here</a>
   </li>  
  
  </ul>
