@@ -29,8 +29,8 @@
 
 <li>clean</li>
 
-<li>Now you can install clean windows 10 or other windows systems. </li>
+<li>Now you can install clean windows 10 or other windows editions. </li>
 
-<li> it will compleately clean every file include other partitions. so make suare get back up all file before install </li>
+<li> it will completely clear every file include other partitions. so make sure get backup all files before install </li>
 
 
