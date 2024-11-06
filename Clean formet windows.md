@@ -25,7 +25,7 @@
 
 <li>list disk</li>
 
-<li>select disk ( 0 Windows hard disk)</li>
+<li>select disk ( 0 or 1 , Select windows hard disk)</li>
 
 <li>clean</li>
 
