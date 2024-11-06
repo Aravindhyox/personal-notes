@@ -15,9 +15,11 @@
 
 <h3>This cmds works only on windows </h3>
 
-<h3> install lean windows: </h3>
+<h3> install clean windows: </h3>
 
-<li>Press (shit + F10) </li>
+<li> insert create bootable usb flash drive </li>
+
+<li> before click install press (shit + F10) </li>
 
 <li>diskpart</li>
 
@@ -26,4 +28,6 @@
 <li>select disk ( 0 Windows hard disk)</li>
 
 <li>clean</li>
+
+<li>Now you can install clean windows 10 or other windows systems. </li>
 
