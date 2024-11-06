@@ -17,7 +17,7 @@
 
 <h3> install clean windows: </h3>
 
-<li> insert create bootable usb flash drive </li>
+<li> insert the created bootable usb flash drive. </li>
 
 <li> before click install press (shit + F10) </li>
 
