@@ -2,7 +2,7 @@
 
 <h3>Mobility</h3>
 
-<li>World greatest stretch </li>  <li>Mountain to cobra </li>
+<li>World greatest stretch </li>  
 <li>Mountain to cobra </li>
 <li>Cat & camel </li> 
 <li>Ankle mobility </li>
