@@ -1,23 +1,23 @@
-# Format Drive / USB / Windows clean install:
+# Format Drive / USB-repair / Windows clean install:
 
 <h3>cmds:</h3>
 
-<li>Diskpart</li>
-<li>List disk</li>
-<li>select disk 0,1,2</li>
+<li>diskpart</li>
+<li>list disk</li>
+<li>select disk  (0 or 1 , Select USB)</li>
 <li>clean</li>
 <li>create partition primary</li>
 <li>select partition</li>
 <li>format fs=ntfs quick</li>
 <li>active</li>
 <li>assign</li>
-<li>exit*2</li>
+<li>exit</li>
 
-<h3>This cmds works only on windows </h3>
+<h3>This commends works only on windows </h3>
 
 <h3> install clean windows: </h3>
 
-<li> insert the created bootable usb flash drive. </li>
+<li> insert the bootable usb flash drive to pc. </li>
 
 <li> before click install. press (shit + F10) </li>
 
