@@ -1,7 +1,7 @@
 # Format Drive / USB-repair / Windows clean install:
 
-<h3>cmds:</h3>
-
+<h3>commends:</h3>
+<li>open cmd in windows</li>
 <li>diskpart</li>
 <li>list disk</li>
 <li>select disk  (0 or 1 , Select USB)</li>
