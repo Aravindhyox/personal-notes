@@ -23,7 +23,7 @@
 
 <li>type <b>diskpart</b> </li>
 
-<li>tybe <b>list disk</b> </li>
+<li>type <b>list disk</b> </li>
 
 <li>select hard disk ( 0 or 1 , Select windows hard disk)</li>
 
